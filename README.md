@@ -6,6 +6,7 @@ Um banco de dados (sua abreviatura é BD, em inglês DB, database) é uma entida
 **Ferramentas utilizadas**
 - [MySQL - Documentação](https://dev.mysql.com/doc/)
 - [MySQL - Download](https://dev.mysql.com/downloads/mysql/)
+- [Modelagem do BD](https://github.com/aasouzaconsult/banco-de-dados-para-analistas-e-cientistas-de-dados/blob/main/1.%20Modelagem_BD_ERP.png)
 - [Ambiente de BD - script](https://github.com/aasouzaconsult/banco-de-dados-para-analistas-e-cientistas-de-dados/blob/main/1.%20Script_Criacao_BD_ERP.sql)
 
 ---------------
@@ -45,6 +46,7 @@ Outras demandas do cliente:
 - Qual o produto que tem a maior quantidade de vendas no canal: Ecommerce?
 - Existiram vendas para produtos em MVP - validação? Quais foram?
 - Quantas vendas encontram-se deletadas logicamente?
+- Quantas vendas encontram-se canceladas?
 
 -----------
 **Alex Souza**
