@@ -6,6 +6,7 @@ Um banco de dados (sua abreviatura é BD, em inglês DB, database) é uma entida
 **Ferramentas utilizadas**
 - [MySQL - Documentação](https://dev.mysql.com/doc/)
 - [MySQL - Download](https://dev.mysql.com/downloads/mysql/)
+- [MySQL - Instalação Passo a Passo](https://dicasdeprogramacao.com.br/como-instalar-o-mysql-no-windows/)
 - [Modelagem do BD](https://github.com/aasouzaconsult/banco-de-dados-para-analistas-e-cientistas-de-dados/blob/main/1.%20Modelagem_BD_ERP.png)
 - [Ambiente de BD - script](https://github.com/aasouzaconsult/banco-de-dados-para-analistas-e-cientistas-de-dados/blob/main/1.%20Script_Criacao_BD_ERP.sql)
 
