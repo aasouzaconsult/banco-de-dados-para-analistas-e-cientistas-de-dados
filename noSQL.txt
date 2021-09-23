@@ -17,8 +17,9 @@
 show databases
 
 -- Agora digite o seguinte comando para “usar” o banco de dados “db_aula” (um banco que você sabe que não existe ainda):
-use db_aula -- como se fosse o banco de dados
-show collections; -- mostra como se fosse as tabelas, conjuntos de informações
+use db_aula           -- como se fosse o banco de dados
+-- db.dropDatabase(); -- dropa o banco de dados
+show collections;     -- mostra como se fosse as tabelas, conjuntos de informações
 
 -- cria uma "tabela tbcliente" e insere informações
 db.tbcliente.insert({dscpf:11111111111, nmCli:"Cliente 1", estado:"Ceará"})
