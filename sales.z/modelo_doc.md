@@ -21,6 +21,7 @@ SELECT count(*) as QTDDependente FROM dependente;
 ```
 
 Resultado:
+
 ![image](https://user-images.githubusercontent.com/29084827/164487121-80990410-8730-4754-a6fd-f7d1b71841e7.png)
 
 -----
@@ -31,6 +32,7 @@ SELECT count(*) as QTDDependente FROM dependente;
 ```
 
 Resultado:
+
 ![image](https://user-images.githubusercontent.com/29084827/164487182-ea1b0219-a247-4c53-b39a-94be0f04dece.png)
 
 -----
