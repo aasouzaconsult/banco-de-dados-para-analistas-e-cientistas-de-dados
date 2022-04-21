@@ -63,7 +63,7 @@ Fase 2:
 
 Entrega do Projeto para o cliente:
 ----------------------------------
-A entrega do projeto para o cliente fica a seu critério, normalmente aqui na *data.z* utilizamos o GitHub para documentar nossas entregas, mas fique a vontade para utilizar a ferramenta que mais tem familiaridade.
+A entrega do projeto para o cliente fica a seu critério, normalmente aqui na *data.z* utilizamos o [GitHub](https://github.com/aasouzaconsult/banco-de-dados-para-analistas-e-cientistas-de-dados/blob/main/sales.z/modelo_doc.md) para documentar nossas entregas, mas fique a vontade para utilizar a ferramenta que mais tem familiaridade.
 
 -----------
 **Alex Souza**
