@@ -1,0 +1,60 @@
+-- Links úteis
+-- https://blogdozouza.wordpress.com/dados/nao-estruturados/nosql/
+-- https://www.mongodb.com/try/download/community
+-- https://www.luiztools.com.br/post/tutorial-mongodb-para-iniciantes-em-nosql/
+-- https://www.luiztools.com.br/post/tutorial-mongodb-para-iniciantes-em-nosql-2/
+
+-- Criar pasta:
+-- C:\data\db 
+
+-- Iniciar Servidor e seta pasta que será guardado os bds:
+-- C:\Program Files\MongoDB\Server\5.0\bin>mongod --dbpath C:\data\db
+
+-- Executar o MongoDB - *Abrir outro prompt*
+-- C:\Program Files\MongoDB\Server\5.0\bin>mongo
+
+-- O comando abaixo no terminal cliente mostra os bancos existentes nesse servidor:
+show databases
+
+-- Agora digite o seguinte comando para “usar” o banco de dados “db_aula” (um banco que você sabe que não existe ainda):
+use db_aula           -- como se fosse o banco de dados
+-- db.dropDatabase(); -- dropa o banco de dados
+show collections;     -- mostra como se fosse as tabelas, conjuntos de informações
+
+-- cria uma "tabela tbcliente" e insere informações
+db.tbcliente.insert({dscpf:11111111111, nmCli:"Cliente 1", estado:"Ceará"})
+db.tbcliente.insert({dscpf:11111111112, nmCli:"Cliente 2", estado:"Ceará"})
+db.tbcliente.insert({dscpf:11111111113, nmCli:"Cliente 3", estado:"São Paulo"})
+db.tbcliente.insert({dscpf:11111111114, nmCli:"Cliente 4", estado:"Rio de Janeiro"})
+
+ -- select
+db.tbcliente.find()
+
+-- select mais detalhado
+db.tbcliente.find().pretty()
+
+-- Filtrando
+db.tbcliente.find({estado: "Ceará"})
+
+-- $gte (Greater Than or Equal)
+-- $eq: exatamente igual (=)
+-- $ne: diferente (<> ou !=)
+-- $gt: maior do que (>)
+-- $lt: menor do que (<)
+-- $lte: menor ou igual a (<=)
+-- $in: o valor está contido em um array de possibilidades, como em um OU. Ex: {idade: {$in: [10,12] }}
+
+db.tbcliente.find({dscpf: {$gte: 11111111112}})
+
+-- -------------------------------------------------------------------------
+-- criando uma outra tabela
+db.tbproduto.insert({id:1, nmpro: "Produto 1", vrunt:18.99})
+
+visualizando detalhado (select mais detalhado)
+db.tbproduto.find().pretty()
+
+-- adicionar mais um registro, com um campo a mais
+db.tbproduto.insert({id:2, nmpro: "Produto 2", vrunt:13.99, desc:"Produto de Plástico 2"})
+
+visualizando detalhado (select mais detalhado)
+db.tbproduto.find().pretty()
