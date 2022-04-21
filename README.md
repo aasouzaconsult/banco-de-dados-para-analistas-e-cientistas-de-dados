@@ -24,7 +24,7 @@ Normalmente utilizando a linguagem padrão SQL (Structured Query Language). A Li
 -----------------------------------
 Somos a empresa: *data.z - consultoria em dados*
 
-A empresa **sales.z** nos contratou para realizarmos uma consultoria em seus dados de venda. Nos passaram um banco de dados de amostra, contendo alguns dados fictícios, mas que obedece a estrutura real do banco de dados deles em produção.
+A empresa **sales.z** nos contratou para realizarmos uma consultoria em seus dados de venda. Nos passaram um [banco de dados de amostra](https://github.com/aasouzaconsult/banco-de-dados-para-analistas-e-cientistas-de-dados/blob/main/1.%20Script_Criacao_BD_ERP.sql), contendo alguns dados fictícios, mas que obedece a estrutura real do banco de dados deles em produção.
 
 Nos informaram por e-mail, que estão realizando um estudo e gostaria que nós criássemos algumas consultas para auxiliar neste processo, consultas para responder as seguintes questões: 
 *Observação: não alterar nada na base de dados, apenas nas consultas mesmo! (uma consulta por questão)*
@@ -59,11 +59,11 @@ Fase 2:
 - Existiram vendas para produtos em MVP - validação? Quais foram?
 - Quantas vendas encontram-se deletadas logicamente?
 - Quantas vendas encontram-se canceladas?
-- Na tabela de dependentes, temos o código da Escola que o dependente estuda, precisamos além do códido da escola (INEP), saber o nome da escola de cada um dos dependentes estudam. (planilha com nome da escola em anexo)
+- Na tabela de dependentes, temos o código da Escola que o dependente estuda, precisamos além do códido da escola (INEP), saber o nome da escola de cada um dos dependentes estudam. (planilha com nome da escola em [anexo](https://github.com/aasouzaconsult/banco-de-dados-para-analistas-e-cientistas-de-dados/blob/main/Censo2020_inep.csv))
 
 -----------
 **Alex Souza**
 - [Portfólio de Serviços](https://github.com/aasouzaconsult/Cientista-de-Dados)
-- [Blog](https://blogdozouza.wordpress.com/)
+- [Blog](https://medium.com/blog-do-zouza)
 - [Linkedin](https://www.linkedin.com/in/alex-souza/)
 - [Instagram](https://www.instagram.com/alexsouzamsc/)
