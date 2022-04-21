@@ -17,7 +17,7 @@
 
 ### Quantidade de dependentes
 
-```
+```sql
 select * from tbteste
 
 ```
