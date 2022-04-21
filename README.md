@@ -27,7 +27,8 @@ Somos a empresa: *data.z - consultoria em dados*
 A empresa **sales.z** nos contratou para realizarmos uma consultoria em seus dados de venda. Nos passaram um [banco de dados de amostra](https://github.com/aasouzaconsult/banco-de-dados-para-analistas-e-cientistas-de-dados/blob/main/1.%20Script_Criacao_BD_ERP.sql) e como sua [modelagem relacional](https://github.com/aasouzaconsult/banco-de-dados-para-analistas-e-cientistas-de-dados/blob/main/1.%20Modelagem_BD_ERP.png), contendo alguns dados fictícios, mas que obedece a estrutura real do banco de dados deles em produção.
 
 Nos informaram por e-mail, que estão realizando um estudo e gostaria que nós criássemos algumas consultas para auxiliar neste processo, consultas para responder as seguintes questões: 
-*Observação: não alterar nada na base de dados, apenas nas consultas mesmo! (uma consulta por questão)*
+*Observação 1: não alterar nada na base de dados, apenas nas consultas mesmo! (uma consulta por questão)*
+*Observação 2: qualquer dúvida, pode procurar diretamente o cliente - Alex Souza*
 
 Fase 1:
 -------
