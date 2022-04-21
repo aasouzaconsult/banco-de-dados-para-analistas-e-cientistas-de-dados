@@ -61,6 +61,10 @@ Fase 2:
 - Quantas vendas encontram-se canceladas?
 - Na tabela de dependentes, temos o código da Escola que o dependente estuda, precisamos além do códido da escola (INEP), saber o nome da escola de cada um dos dependentes estudam. (planilha com nome da escola em [anexo](https://github.com/aasouzaconsult/banco-de-dados-para-analistas-e-cientistas-de-dados/blob/main/Censo2020_inep.csv))
 
+Entrega do Projeto para o cliente:
+----------------------------------
+A entrega do projeto para o cliente fica a seu critério, normalmente aqui na *data.z* utilizamos o GitHub para documentar nossas entregas, mas fique a vontade para utilizar a ferramenta que mais tem familiaridade.
+
 -----------
 **Alex Souza**
 - [Portfólio de Serviços](https://github.com/aasouzaconsult/Cientista-de-Dados)
