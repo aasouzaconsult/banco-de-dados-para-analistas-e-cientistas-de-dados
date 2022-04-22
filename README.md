@@ -5,11 +5,11 @@ Um banco de dados (sua abreviatura é BD, em inglês DB, database) é uma entida
 # SQL
 Essa habilidade consiste na capacidade de consultar dados contidos em tabelas (não apenas em tabelas) nas mais diversas Fontes de Dados ([consulte na seção Classificação de dados (Data Classification)](https://medium.com/blog-do-zouza/dos-dados-at%C3%A9-a-tomada-de-decis%C3%A3o-534f61abd3cb)). Em grande parte das vezes, estas consultas, buscam atender alguma necessidade do negócio, da empresa na qual esta trabalhando!
 Normalmente utilizando a linguagem padrão SQL (Structured Query Language). A Linguagem SQL, é subdivida em alguns tipos de linguagem, são elas:
-- DDL (Data Definition Language) — principais comandos: CREATE DATABASE | DROP DATABASE | ALTER DATABASE | CREATE TABLE | ALTER TABLE | DROP TABLE | TRUNCATE | RENAME
-- DML (Data Manipulation Language) — principais comandos: INSERT | UPDATE | DELETE
-- DCL (Data Control Language) — principais comandos: GRANT | REVOKE
-- TCL (Transaction Control Language)— principais comandos: ROLLBACK | COMMIT | SAVE POINT
-- DQL (Data Query Language) — principais comandos: SELECT (esse aqui será nosso foco) — observação, na literatura também pode ser que encontrem comandos SELECT dentro de DML. ([mais...](https://medium.com/@aasouzaconsult/sql-para-an%C3%A1lise-de-dados-2183f746f2e1))
+- **DDL (Data Definition Language)** — principais comandos: CREATE DATABASE | DROP DATABASE | ALTER DATABASE | CREATE TABLE | ALTER TABLE | DROP TABLE | TRUNCATE | RENAME
+- **DML (Data Manipulation Language)** — principais comandos: INSERT | UPDATE | DELETE
+- **DCL (Data Control Language)** — principais comandos: GRANT | REVOKE
+- **TCL (Transaction Control Language)** — principais comandos: ROLLBACK | COMMIT | SAVE POINT
+- **DQL (Data Query Language)** — principais comandos: SELECT (esse aqui será nosso foco) — observação, na literatura também pode ser que encontrem comandos SELECT dentro de DML. ([mais...](https://medium.com/@aasouzaconsult/sql-para-an%C3%A1lise-de-dados-2183f746f2e1))
 
 # Ferramentas utilizadas
 - [MySQL - Documentação](https://dev.mysql.com/doc/)
