@@ -74,3 +74,6 @@ A entrega do projeto para o cliente fica a seu critério, normalmente aqui na *d
 - [Blog](https://medium.com/blog-do-zouza)
 - [Linkedin](https://www.linkedin.com/in/alex-souza/)
 - [Instagram](https://www.instagram.com/alexsouzamsc/)
+
+------
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/29084827/164712340-6b03015f-a428-4731-b1b9-a5605de203b2.svg)
