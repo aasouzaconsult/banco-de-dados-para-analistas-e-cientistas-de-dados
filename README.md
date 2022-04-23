@@ -18,7 +18,6 @@ Normalmente utilizando a linguagem padrão SQL (Structured Query Language). A Li
 - [MySQL - Executar comandos de exemplo direto no navegador](https://www.w3schools.com/mysql/mysql_examples.asp)
 - [Modelagem do BD](https://github.com/aasouzaconsult/banco-de-dados-para-analistas-e-cientistas-de-dados/blob/main/sales.z/1.%20Modelagem_BD_ERP.png)
 ![image](https://user-images.githubusercontent.com/29084827/164942794-746099c2-0dad-469e-a73a-7609d9acb0ac.png)
-
 - [Ambiente de BD - script](https://github.com/aasouzaconsult/banco-de-dados-para-analistas-e-cientistas-de-dados/blob/main/sales.z/1.%20Script_Criacao_BD_ERP.sql)
 
 # Projeto
