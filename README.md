@@ -15,6 +15,7 @@ Normalmente utilizando a linguagem padrão SQL (Structured Query Language). A Li
 - [MySQL - Documentação](https://dev.mysql.com/doc/)
 - [MySQL - Download](https://dev.mysql.com/downloads/mysql/)
 - [MySQL - Instalação Passo a Passo](https://dicasdeprogramacao.com.br/como-instalar-o-mysql-no-windows/)
+- [MySQL - Executar comandos de exemplo direto no navegador](https://www.w3schools.com/mysql/mysql_examples.asp)
 - [Modelagem do BD](https://github.com/aasouzaconsult/banco-de-dados-para-analistas-e-cientistas-de-dados/blob/main/sales.z/1.%20Modelagem_BD_ERP.png)
 - [Ambiente de BD - script](https://github.com/aasouzaconsult/banco-de-dados-para-analistas-e-cientistas-de-dados/blob/main/sales.z/1.%20Script_Criacao_BD_ERP.sql)
 
