@@ -69,7 +69,7 @@ Entrega do Projeto para o cliente:
 ----------------------------------
 A entrega do projeto para o cliente fica a seu critério, normalmente aqui na *data.z* utilizamos o [GitHub](https://github.com/aasouzaconsult/banco-de-dados-para-analistas-e-cientistas-de-dados/blob/main/sales.z/modelo_doc.md) para documentar nossas entregas, mas fique a vontade para utilizar a ferramenta que mais tem familiaridade.
 
-Data: 08/05/2022 até as 23:59hs
+**Data**: *08/05/2022 até as 23:59hs*
 
 -----------
 **Alex Souza**
