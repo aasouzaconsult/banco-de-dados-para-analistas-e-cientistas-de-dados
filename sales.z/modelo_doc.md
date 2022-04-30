@@ -7,7 +7,7 @@
 -----
 
 - ***Consultoria***: data.z
-- ***Entrega do projeto em***: 05.05.2022
+- ***Entrega do projeto em***: 08.05.2022
 - ***Responsável pela entrega***: Antonio Souza
 - ***Necessidade do cliente (resumo)***: Análise da base de vendas, com o objetivo de responder as perguntas realizadas pelo cliente.
 
