@@ -36,3 +36,7 @@ Resultado:
 ![image](https://user-images.githubusercontent.com/29084827/164487182-ea1b0219-a247-4c53-b39a-94be0f04dece.png)
 
 -----
+
+## Dicas
+- [comandos git](https://blogdozouza.wordpress.com/2020/02/18/github/)
+- [Sintaxe básica de escrita e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
