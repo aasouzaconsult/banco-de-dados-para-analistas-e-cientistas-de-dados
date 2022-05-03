@@ -63,7 +63,7 @@ Fase 2:
 - Existiram vendas para produtos em MVP - validação? Quais foram?
 - Quantas vendas encontram-se deletadas logicamente?
 - Quantas vendas encontram-se canceladas?
-- Na tabela de dependentes, temos o código da Escola que o dependente estuda, precisamos além do códido da escola (INEP), saber o nome da escola de cada um dos dependentes estudam. (planilha com nome da escola em [anexo](https://github.com/aasouzaconsult/banco-de-dados-para-analistas-e-cientistas-de-dados/blob/main/Censo2020_inep.csv))
+- Na tabela de dependentes, temos o código da Escola que o dependente estuda, precisamos além do códido da escola (INEP), saber o nome da escola de cada um dos dependentes estudam. (planilha com nome da escola em [anexo](https://github.com/aasouzaconsult/banco-de-dados-para-analistas-e-cientistas-de-dados/blob/main/sales.z/Censo2020_inep.csv))
 
 Entrega do Projeto para o cliente:
 ----------------------------------
