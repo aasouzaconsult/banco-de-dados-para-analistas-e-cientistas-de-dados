@@ -25,7 +25,7 @@ Normalmente utilizando a linguagem padrão SQL (Structured Query Language). A Li
 -----------------------------------
 Somos a empresa: *data.z - consultoria em dados*
 
-A empresa **sales.z** nos contratou para realizarmos uma consultoria em seus dados de venda. Nos passaram um [banco de dados de amostra](https://github.com/aasouzaconsult/banco-de-dados-para-analistas-e-cientistas-de-dados/blob/main/1.%20Script_Criacao_BD_ERP.sql) e como sua [modelagem relacional](https://github.com/aasouzaconsult/banco-de-dados-para-analistas-e-cientistas-de-dados/blob/main/1.%20Modelagem_BD_ERP.png), contendo alguns dados fictícios, mas que obedece a estrutura real do banco de dados deles em produção.
+A empresa **sales.z** nos contratou para realizarmos uma consultoria em seus dados de venda. Nos passaram um [banco de dados de amostra](https://github.com/aasouzaconsult/banco-de-dados-para-analistas-e-cientistas-de-dados/blob/main/sales.z/1.%20Script_Criacao_BD_ERP.sql) e como sua [modelagem relacional](https://github.com/aasouzaconsult/banco-de-dados-para-analistas-e-cientistas-de-dados/blob/main/sales.z/1.%20Modelagem_BD_ERP.png), contendo alguns dados fictícios, mas que obedece a estrutura real do banco de dados deles em produção.
 
 Nos informaram por e-mail, que estão realizando um estudo e gostaria que nós criássemos algumas consultas para auxiliar neste processo, consultas para responder as seguintes questões: 
 
