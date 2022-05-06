@@ -56,7 +56,7 @@ Fase 1:
 Fase 2:
 -------
 - Filtrar a tabela de vendedores pelo vendedor de nome: Vendedor 6
-- Uma consulta que retorno o nome dos dependentes, mas quando for o dependente de código 5, retorne o seu nome. (Usando IF ou CASE)
+- Uma consulta que retorne o nome dos dependentes, mas quando for o dependente de código 5, retorne o seu nome. (Usando IF ou CASE)
 - Retornar todas as vendas entre os dias 07/05/2019 a 03/03/2021 unidas com as todas as vendas entre os dias 11/09/2011 a 03/09/2012
 - Retornar o nome do produto (apenas os 5 primeiros caracteres) e a quantidade de venda com 10 dígitos, completando com zeros a esquerda.
 - Qual o produto que tem a maior quantidade de vendas no canal: Ecommerce?
