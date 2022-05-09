@@ -39,7 +39,7 @@ Fase 1:
 - Quantidade de dependentes por sexo
 - Quantidade de clientes da região sul
 - Uma descrição breve dos produtos da empresa (codigo, nome, tipo)
-- Quais os 5 produtos mais vendidos de 2021?
+- Quais os 5 produtos mais vendidos, em quantidade, de 2021?
 - Nome, Nome em Maiúsculo e Nome em Minúsculo, dos vendedores do sexo feminino
 - Nome e idade de todos os dependentes, ordenados do mais velho para o mais novo
 - Somatório do Valor Total de Vendas (concluídas e não deletadas) por Estado
