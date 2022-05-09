@@ -275,12 +275,13 @@ INSERT INTO tbvendas VALUES (207, '20210807', 17, 'Cliente MTG', 'Palmas'       
 SELECT * FROM tbvendas;
 
 -- Dependente
-INSERT INTO tbdependente VALUES (1, 'Dependente 1', '20100202', 'Masc', 1, '11019131');
-INSERT INTO tbdependente VALUES (2, 'Dependente 2', '20120405', 'Masc', 3, '11010860');
-INSERT INTO tbdependente VALUES (3, 'Dependente 3', '20130304', 'Fem' , 3, '11010860');
-INSERT INTO tbdependente VALUES (4, 'Dependente 4', '20100505', 'Fem' , 4, '11018500');
-INSERT INTO tbdependente VALUES (5, 'Dependente 5', '20190706', 'Masc', 4, '11018500');
-INSERT INTO tbdependente VALUES (6, 'Dependente 6', '20180302', 'Fem' , 9, '11036680');
+-- truncate table tbdependente
+INSERT INTO tbdependente VALUES (1, 'Dependente 1', '20100202', 'Masc', 1, '11000040');
+INSERT INTO tbdependente VALUES (2, 'Dependente 2', '20120405', 'Masc', 3, '33110360');
+INSERT INTO tbdependente VALUES (3, 'Dependente 3', '20130304', 'Fem' , 3, '33110360');
+INSERT INTO tbdependente VALUES (4, 'Dependente 4', '20100505', 'Fem' , 4, '42154413');
+INSERT INTO tbdependente VALUES (5, 'Dependente 5', '20190706', 'Masc', 4, '42154413');
+INSERT INTO tbdependente VALUES (6, 'Dependente 6', '20180302', 'Fem' , 9, '53085000');
 
 -- Visualizando os dados
 SELECT * FROM tbdependente;
